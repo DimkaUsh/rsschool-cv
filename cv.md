@@ -45,7 +45,6 @@ function arrayDiff(a, b) {
 
 ### JS:
 
-- [JavaScript Manual(completed)](https://learn.javascript.ru)
 - [Udemy cources The Complete JavaScript + React Course - From Scratch to Results(completed)](https://www.udemy.com/course/javascript_full/)
 - [RS Schools Course «JavaScript/Front-end. Stage 0» (completed)](https://rs.school)
 
